@@ -49,7 +49,7 @@ void keyPressed() {
 }
 
 void draw() {
-  image(backgroundImage, 0, 0);
+  background(255);
   fill(51,102,0);
   String winner = game.getWinner();
   if(winner.startsWith("Spiller1")) {
