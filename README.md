@@ -31,6 +31,9 @@ __Example of a game__
 | Tail of Unicorn |
 
 Player 2 wins because they get 4 points for having all different suits.
+<<<<<<< HEAD
 
 __Backstory__
 This was a really fun project done in 16 hours straight. Would like to thank Domino's Pizza to bring me pizza at night (right before closing time).
+=======
+>>>>>>> 71e9b7a2919ea5f69f97b4b20873fdf7e04cbab3

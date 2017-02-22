@@ -12,6 +12,10 @@ Game game;
 
 void setup() {
   size(1280,720);
+<<<<<<< HEAD
+=======
+  backgroundImage = loadImage("img/background.png");
+>>>>>>> 71e9b7a2919ea5f69f97b4b20873fdf7e04cbab3
   reset();
 }
 
