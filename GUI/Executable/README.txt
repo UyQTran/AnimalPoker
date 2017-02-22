@@ -1,0 +1,1 @@
+All files are needed to run the executable version for each OS version

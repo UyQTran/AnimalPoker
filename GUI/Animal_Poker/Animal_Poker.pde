@@ -12,7 +12,6 @@ Game game;
 
 void setup() {
   size(1280,720);
-  backgroundImage = loadImage("img/background.png");
   reset();
 }
 
