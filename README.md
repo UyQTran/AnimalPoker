@@ -15,11 +15,18 @@ The deck consists of 56 cards with four suits. Each suit has the cards 2 to 14 a
 
 __Example of a game__
 
-| Player 1 hand   |     | Player 2 hand   |
-|-----------------|     |-----------------|
-| 4 of Pony       |     | 2 of Pony       |
-| Tail of Pony    |     | 4 of Horse      |
-| 7 of Horse      |     | 9 of Rhino      |
-| 11 of Rhino     |     | Tail of Unicorn |
+| Player 1 hand   |
+|-----------------|
+| 4 of Pony       |
+| Tail of Pony    |
+| 7 of Horse      |
+| 11 of Rhino     |
+
+| Player 2 hand   |
+|-----------------|
+| 2 of Pony       |
+| 4 of Horse      |
+| 9 of Rhino      |
+| Tail of Unicorn |
 
 Player 2 wins because they get 4 points for having all different suits.

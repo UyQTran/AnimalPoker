@@ -85,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="351">
-                <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <first_editor relative-caret-position="266">
+                <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -856,7 +856,7 @@
       <workItem from="1474643238864" duration="727000" />
       <workItem from="1474705091619" duration="40625000" />
       <workItem from="1486984951964" duration="1125000" />
-      <workItem from="1488287660231" duration="1807000" />
+      <workItem from="1488287660231" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="fix with some refactoring and junit fix">
       <created>1488288581461</created>
@@ -901,7 +901,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44284000" />
+    <option name="totallyTimeSpent" value="44317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1425,8 +1425,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <first_editor relative-caret-position="266">
+            <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
