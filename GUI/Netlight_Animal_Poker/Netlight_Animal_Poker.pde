@@ -12,6 +12,7 @@ Game game;
 
 void setup() {
   size(1280,720);
+  backgroundImage = loadImage("img/background.png");
   reset();
 }
 
@@ -48,7 +49,7 @@ void keyPressed() {
 }
 
 void draw() {
-  background(255);
+  image(backgroundImage, 0, 0);
   fill(51,102,0);
   String winner = game.getWinner();
   if(winner.startsWith("Spiller1")) {

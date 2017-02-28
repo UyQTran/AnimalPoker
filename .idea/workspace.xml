@@ -4,30 +4,67 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/java/no/uqtran/animalpoker/PlayerTest.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="155bf336-1e89-42bb-807e-fd94de95fd63" name="Default" comment="fix with some refactoring">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/Card.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/Game.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/Hand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/Suit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/lambda/HandLambda.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/util/CardComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/util/CardUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/util/DeckUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/util/GameUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/no/netlight/animalpoker/util/PlayerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/no/netlight/animalpoker/CardTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/no/netlight/animalpoker/GameTest$GameFunction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/no/netlight/animalpoker/GameTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/no/netlight/animalpoker/HandTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/no/netlight/animalpoker/PlayerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/no/netlight/animalpoker/util/TestUtil.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="155bf336-1e89-42bb-807e-fd94de95fd63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/background.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/25.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/1.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/10.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/11.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/12.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/13.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/14.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/15.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/16.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/17.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/18.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/19.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/2.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/20.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/20.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/21.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/22.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/22.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/23.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/23.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/24.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/24.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/27.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/27.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/28.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/29.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/29.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/3.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/30.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/31.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/31.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/32.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/32.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/33.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/34.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/34.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/35.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/35.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/36.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/36.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/37.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/37.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/38.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/38.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/39.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/39.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/4.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/40.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/41.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/41.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/42.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/42.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/43.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/43.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/44.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/44.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/45.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/45.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/46.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/46.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/47.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/47.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/48.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/49.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/49.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/5.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/50.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/51.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/51.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/52.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/52.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/53.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/53.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/54.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/54.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/55.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/55.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/56.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/56.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/6.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/7.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/8.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Animal_Poker/img/9.png" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/img/9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GUI/Executable/application.windows32/source/Animal_Poker.pde" afterPath="$PROJECT_DIR$/GUI/Netlight_Animal_Poker/Netlight_Animal_Poker.pde" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AnimalPoker.iml" afterPath="$PROJECT_DIR$/AnimalPoker.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="AnimalPoker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,9 +99,11 @@
       <file leaf-file-name="PlayerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/no/uqtran/animalpoker/PlayerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="391">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,8 +269,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1092" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -875,8 +915,16 @@
       <workItem from="1474643238864" duration="727000" />
       <workItem from="1474705091619" duration="40625000" />
       <workItem from="1486984951964" duration="1125000" />
-      <workItem from="1488287660231" duration="898000" />
+      <workItem from="1488287660231" duration="1351000" />
     </task>
+    <task id="LOCAL-00001" summary="fix with some refactoring and junit fix">
+      <created>1488288581461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488288581461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -912,10 +960,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43375000" />
+    <option name="totallyTimeSpent" value="43828000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1092" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -928,12 +976,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22403258" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38477802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1591858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -968,7 +1016,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix with some refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix with some refactoring" />
+    <MESSAGE value="fix with some refactoring and junit fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix with some refactoring and junit fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1174,7 +1223,7 @@
         <state relative-caret-position="204">
           <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1194,7 +1243,7 @@
         <state relative-caret-position="68">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1441,9 +1490,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/no/uqtran/animalpoker/PlayerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
